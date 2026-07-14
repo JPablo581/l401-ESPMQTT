@@ -1,0 +1,19 @@
+# Entorno virtual de Python
+venv/
+env/
+.venv/
+
+# Variables de entorno con credenciales reales (NUNCA subir esto)
+.env
+
+# Archivos compilados/cache de Python
+__pycache__/
+*.pyc
+
+# Archivos de compilación de Arduino
+build/
+*.bin
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
