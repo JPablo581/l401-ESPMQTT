@@ -142,6 +142,10 @@ Luego abrir `http://localhost:5000` en el navegador.
 
 ![Monitor de datos Flask](./capturas/Monitor_datos.png)
 
+**Circuito**
+
+![Circuito](./capturas/Circuito.png)
+
 ## 9. Integrantes
 
 - [Sebastian Hueche]
